@@ -9,180 +9,111 @@
 <p align="center"><b>AI First. Rápido para aprender, rigoroso para escalar.</b></p>
 
 <p align="center">
-  <code>AI FIRST</code> ▲ <code>ARQUITETURA</code> ▲ <code>AGENTES</code> ▲ <code>MULTICLOUD</code> ▲ <code>SQUADS</code> ▲ <code>SRE</code>
+  <code>AI FIRST</code> ▲ <code>AGENTES</code> ▲ <code>ARQUITETURA</code> ▲ <code>MULTICLOUD</code> ▲ <code>SQUADS</code> ▲ <code>SRE</code>
 </p>
 
 ---
 
-Este repositório reúne a identidade e o brand book da Garage4Lab: quem somos, o que entregamos, como pensamos, como falamos e como a marca aparece.
+**A estratégia que a diretoria aprova raramente é o sistema que roda em produção.** A Garage4Lab existe para
+fechar essa distância.
 
-| Arquivo | Conteúdo |
-| --- | --- |
-| `README.md` | Brand book: visão geral completa |
-| [`brand/mensagem.md`](brand/mensagem.md) | Essência, manifesto, princípios, método, ofertas, pitch, tom de voz, vocabulário e credenciais |
-| [`brand/linguagem-visual.md`](brand/linguagem-visual.md) | Selos, ícones, marquee, componentes de marca, estrutura de página, fazer e evitar |
-| [`brand/tokens.json`](brand/tokens.json) | Cores (Light e Dark), tipografia, espaçamentos e cantos |
-| [`assets/logos/`](assets/logos/) | Logos oficiais 2026 em PNG |
+Somos uma consultoria **AI First** de arquitetura de soluções, agentes de IA, squads ágeis e multicloud.
+Diagnosticamos o problema de negócio, colocamos um protótipo funcionando com dados reais em dias, provamos
+valor com métrica de negócio e só então escalamos, com arquitetura e governança.
 
----
+> Não vendemos tecnologia. Entregamos **decisões bem tomadas e sistemas que chegam à produção**.
 
-## 1. Quem somos
+## O problema que resolvemos
 
-A Garage4Lab é uma consultoria **AI First** de arquitetura de soluções, agentes de IA, squads ágeis e multicloud. Nasce da experiência de quem passou anos liderando tecnologia do lado do cliente, com orçamento, prazo, operação 24x7 e diretoria cobrando resultado.
+A maioria dos projetos de tecnologia não falha por falta de ferramenta. Falha porque:
 
-Por isso não vendemos tecnologia: entregamos **decisões bem tomadas e sistemas que chegam à produção**. A IA é a primeira camada de cada solução, e o método é o da garagem: prototipar em dias, provar com métrica de negócio, escalar com rigor.
+- **ninguém fez a pergunta certa no começo**, e o projeto resolve o problema errado com perfeição;
+- **a decisão difícil foi adiada**, e o custo dela cresceu a cada mês;
+- **se gastou um ano planejando** o que poderia ter sido testado em semanas.
 
-| Ficha rápida | |
-| --- | --- |
-| **O que somos** | Consultoria AI First de tecnologia e arquitetura |
-| **Assinatura** | Arquitetura que vira resultado. |
-| **Linha de apoio** | AI First. Rápido para aprender, rigoroso para escalar. |
-| **Estratégia primária** | AI First: a IA como primeira camada de cada solução |
-| **Método** | Diagnosticar, Prototipar, Provar, Escalar |
-| **Personalidade** | Direta, crítica, executiva e inquieta |
-| **Cores** | Magenta `#E6007E` e Ink `#111114` |
-| **Fontes** | Sora (títulos), Inter (textos), JetBrains Mono (rótulos técnicos) |
-| **Identidade 2026** | Evolução da marca atual, não um rebranding completo |
+Com a IA, a distância só aumenta: muita prova de conceito, pouca coisa em produção e quase nenhum número
+que a diretoria consiga defender.
 
-## 2. Essência e posicionamento
+## Quem somos
 
-**Pensamos como executivos, desenhamos como arquitetos, experimentamos como uma garagem e entregamos como quem já respondeu pela operação.**
+A Garage4Lab nasce da experiência de quem passou anos liderando tecnologia **do lado do cliente**: com
+orçamento apertado, prazo de go-live, operação 24x7 e diretoria perguntando "quanto isso gera?".
 
-- **Promessa:** fechar a distância entre a estratégia que a diretoria aprova e o sistema que de fato roda em produção.
-- **AI First:** todo problema começa pela pergunta "como a IA muda isto?". Não é um projeto de IA ao lado do negócio; é a IA como primeira camada.
-- **Garagem + Lab:** a garagem é onde se testa rápido; o laboratório é onde se ganha método. O cliente só vê valor quando entra em produção.
-- **Integridade:** falamos o que o cliente precisa ouvir, não o que ele quer ouvir.
+O nome resume o jeito de trabalhar. A **garagem** é onde se testa rápido. O **laboratório** é onde se ganha
+método. O cliente só vê valor quando a solução entra em produção, e é aí que o nosso trabalho termina.
 
-## 3. O que fazemos
+## Nossos pilares
 
-| Oferta | Em uma frase |
-| --- | --- |
-| **Estratégia e adoção AI First** | Trilha de maturidade da produtividade individual aos agentes em processos, com casos priorizados por ROI, governança e capacitação. |
-| **Agentes e IA generativa em produção** | Agentes, assistentes e automações integrados aos sistemas do cliente, multimodelo e multicloud. |
-| **Arquitetura de soluções e multicloud** | Plataformas e integrações preparadas para IA, com custo, risco e escala explícitos. |
-| **Squads ágeis por jornada** | Pessoas e agentes em torno de jornadas de negócio, com metas de resultado. |
-| **Operação e confiabilidade** | De AMS para SRE, com indicadores de negócio por jornada crítica. |
+| | Pilar | O que significa para o cliente |
+|---|---|---|
+| **( 01 )** | **Pensamos como executivos** | Toda recomendação começa pelo impacto no negócio: quanto gera, quanto custa, quanto arrisca e quem decide. |
+| **( 02 )** | **Desenhamos como arquitetos** | Arquitetura é decisão, não diagrama. Você recebe opções, trade-offs e as decisões que dependem de você, com dono e prazo. |
+| **( 03 )** | **Experimentamos como uma garagem** | Protótipo funcionando com dados reais em dias, não em meses. O que não prova valor é encerrado cedo e sem apego. |
+| **( 04 )** | **Entregamos como quem já respondeu pela operação** | Segurança, custo, observabilidade e governança desde o primeiro caso que vai para produção. |
 
-## 4. Como trabalhamos: o método da garagem
+Por baixo dos quatro, uma escolha: **AI First**. Antes de desenhar um processo, um sistema ou um time,
+perguntamos o que a IA generativa e os agentes mudam nele. A IA é a primeira camada de cada solução, não um
+projeto ao lado do negócio.
 
-| Passo | O que acontece | Resultado |
-| --- | --- | --- |
-| **( 01 ) Diagnosticar** | Problema de negócio, indicador que importa, onde a IA muda o jogo | Hipótese clara e mensurável |
-| **( 02 ) Prototipar** | Solução funcional com dados reais | Protótipo em dias, não meses |
-| **( 03 ) Provar** | Usuários reais e métrica de negócio | Decisão: seguir, ajustar ou encerrar |
-| **( 04 ) Escalar** | Arquitetura, segurança, custo e operação | Produção com confiança |
+## Onde atuamos
 
-Errar rápido e barato faz parte do método. Errar caro e tarde, não.
+| Frente | O que entregamos | Quando faz sentido |
+|---|---|---|
+| **Estratégia e adoção AI First** | Trilha de maturidade da produtividade individual aos agentes em processos de negócio, com portfólio de casos priorizado por ROI, governança e capacitação. | A empresa tem muitas iniciativas de IA e nenhum número para mostrar. |
+| **Agentes e IA generativa em produção** | Agentes, assistentes e automações integrados aos sistemas que você já tem, em arquitetura multimodelo e multicloud. | O piloto funcionou na demonstração e travou na integração. |
+| **Arquitetura de soluções e multicloud** | Plataformas e integrações preparadas para IA, com decisões de custo, risco e escala explícitas. | A arquitetura atual não suporta o que a estratégia pede, ou ninguém sabe quanto ela custa de verdade. |
+| **Squads ágeis por jornada** | Times que combinam pessoas e agentes em torno de jornadas de negócio, com metas de resultado e não de entrega de tarefas. | O time entrega muito e o indicador de negócio não se mexe. |
+| **Operação e confiabilidade** | Evolução de AMS para SRE, com indicadores de negócio por jornada crítica e IA aplicada à própria operação. | A sustentação consome o orçamento e o incidente ainda chega antes do alerta. |
 
-## 5. Princípios
+## Como trabalhamos: o método da garagem
 
-1. **AI First por padrão.**
-2. **Problema antes da ferramenta.**
-3. **Faça rápido, aprenda rápido.**
-4. **Rápido para aprender, rigoroso para escalar.**
-5. **Valor de negócio é a métrica.**
-6. **Arquitetura é decisão, não diagrama.**
-7. **Pessoas e modelo operacional decidem o resultado.**
-8. **Pensamento crítico como serviço.**
+Quatro passos, em ciclos curtos. Cada um termina numa decisão, não num relatório.
 
-O texto completo de cada princípio, o manifesto e o pitch estão em [`brand/mensagem.md`](brand/mensagem.md).
+| Passo | O que acontece | Você sai com |
+|---|---|---|
+| **( 01 ) Diagnosticar** | O problema de negócio, o indicador que importa e onde a IA muda o jogo. | Uma hipótese clara e mensurável |
+| **( 02 ) Prototipar** | Uma solução funcional, com dados reais. | Um protótipo em dias, não em meses |
+| **( 03 ) Provar** | Usuários reais e métrica de negócio. | A decisão de seguir, ajustar ou encerrar |
+| **( 04 ) Escalar** | Arquitetura, segurança, custo e operação. | Produção com confiança |
 
-## 6. Personalidade e tom de voz
+**Errar rápido e barato faz parte do método. Errar caro e tarde, não.**
 
-| Somos | Não somos |
-| --- | --- |
-| Diretos | Vagos ou burocráticos |
-| Críticos | Concordantes por conveniência |
-| Executivos | Técnicos para impressionar |
-| Inquietos | Acomodados no "sempre foi assim" |
-| Otimistas com a tecnologia | Reféns do hype |
+## No que acreditamos
 
-**Regra de ouro:** primeiro o impacto no negócio, depois o como. Diagnóstico antes da solução, protótipo antes do slide, números antes de adjetivos, decisões e riscos às claras.
+1. **AI First por padrão.** Todo problema começa pela pergunta "como a IA muda isto?".
+2. **Problema antes da ferramenta.** Nenhuma recomendação sai sem diagnóstico.
+3. **Faça rápido, aprenda rápido.** Uma semana de teste real vale mais que um mês de debate.
+4. **Rápido para aprender, rigoroso para escalar.** Velocidade na descoberta, disciplina na escala.
+5. **Valor de negócio é a métrica.** Cada caso de IA tem ROI e dono.
+6. **Arquitetura é decisão, não diagrama.** Multicloud e multimodelo, sem amarração a um único fornecedor.
+7. **Pessoas e modelo operacional decidem o resultado.** IA que ninguém adota não entrega nada.
+8. **Pensamento crítico como serviço.** Questionamos premissas, fornecedores, modismos e até o pedido inicial. É para isso que nos contratam.
 
-**Estrutura de toda mensagem executiva:** Título de impacto → Problema → Solução → Valor gerado → Evidências → Status e riscos → Próximos passos e decisões.
+## Para quem
 
-## 7. Logo
+Diretoria e liderança de tecnologia de empresas que precisam transformar estratégia de tecnologia em
+resultado de negócio. Faz sentido conversar se você reconhece pelo menos um destes sinais:
 
-O logo é um wordmark: **GARAGE** em uma fonte geométrica estêncil, seguido de **4LAB** sobre uma **placa levemente inclinada**. O recorte dentro de cada A é um pequeno **triângulo** na cor de destaque. O **símbolo 4** (a placa sozinha) é a forma reduzida.
+- a diretoria aprovou uma estratégia de IA e você ainda não tem um caso em produção para mostrar;
+- há pilotos demais e nenhum critério claro para decidir qual escala e qual morre;
+- a arquitetura virou o gargalo de tudo que o negócio pede;
+- o custo de sustentação cresce mais rápido que o valor entregue;
+- você precisa de alguém que diga o que precisa ser dito, não o que é confortável ouvir.
 
-| Arquivo | Usar sobre | Quando |
-| --- | --- | --- |
-| `garage4lab-logo-primary` | branco, `surface` | Padrão: site, decks, propostas |
-| `garage4lab-logo-on-dark` | `ink`, fotos escuras | Padrão em fundo escuro |
-| `garage4lab-logo-mono-ink` | fundos claros | Impressão em uma cor, documentos |
-| `garage4lab-logo-outline-on-dark` | `ink` | Alternativa mais leve no escuro |
-| `garage4lab-symbol` | qualquer fundo com contraste | Abaixo de 120px de largura |
-| `garage4lab-app-icon-light` / `-dark` | (tile incluído) | Ícone de app, favicon, avatar |
+## Por que a Garage4Lab
 
-**Regras:** nunca redesenhe, recolora, estique ou endireite a placa; mantenha a inclinação. Área de proteção igual à altura do 4 em todos os lados. Abaixo de 120px de largura, use o símbolo.
+- **Já estivemos do seu lado da mesa.** Sabemos o que é responder pela operação, pelo orçamento e pelo prazo.
+- **AI First de verdade.** A IA entra no desenho desde o primeiro dia, não como um projeto paralelo.
+- **Protótipo antes do slide.** Você vê a solução funcionando com os seus dados antes de decidir investir.
+- **Sem amarração.** Multicloud e multimodelo: a recomendação serve ao seu negócio, não a um fornecedor.
+- **Decisões às claras.** Números antes de adjetivos, riscos expostos e cada próxima decisão com dono e data.
+- **Integridade.** Falamos o que o cliente precisa ouvir, não o que ele quer ouvir.
 
-## 8. Cor
+## Vamos conversar
 
-| Token | Light | Dark | Papel |
-| --- | --- | --- | --- |
-| `magenta` | `#E6007E` | `#E6007E` | Cor da marca: botão principal, placa, números-chave |
-| `ink` | `#111114` | `#F5F3F6` | Texto principal |
-| `night` | `#111114` | `#111114` | Fundo sempre escuro: hero, blocos de número |
-| `surface` | `#FAF8FA` | `#111114` | Fundo da página |
-| `surface-raised` | `#FFFFFF` | `#1C1C21` | Cards e painéis |
-| `magenta-deep` | `#C8006E` | `#FF3D9A` | Texto e links magenta pequenos |
-| `magenta-bright` | `#FF3D9A` | `#FF3D9A` | Acentos sobre fundo escuro |
-| `magenta-soft` | `#FCE6F1` | `#3A0A24` | Fundo de tags e destaques |
-
-- **Um foco magenta por tela ou slide.** É o único acento da marca; usado com parcimônia, mantém a força.
-- Texto magenta abaixo de 24px usa `magenta-deep`; sobre `ink`, os acentos passam para `magenta-bright`.
-- Uma seção inteira em `magenta`, de borda a borda, marca a virada da narrativa de uma página.
-
-## 9. Tipografia
-
-| Estilo | Fonte | Uso |
-| --- | --- | --- |
-| `stat` 96px | Sora 700 | Números grandes |
-| `hero` 72px | Sora 700 | Título principal do site |
-| `display` 56px | Sora 700 | Títulos de capa e abertura |
-| `heading-1` / `heading-2` | Sora 600 | Títulos de seção e de card |
-| `body` / `body-sm` | Inter 400 | Tudo que se lê |
-| `label` | Inter 600 | Botões e rótulos |
-| `eyebrow` / `code` | JetBrains Mono | Numeração `( 01 )`, tags técnicas: o lado laboratório |
-
-## 10. Layout e temas
-
-- **Grade de 8px:** `space-2` a `space-8`, `space-16` entre seções.
-- **Cantos:** `radius-md` e `radius-lg` em cards; `radius-pill` em botões, tags e chips.
-- **Sem degradês nem sombras:** separe com linhas `line` ou um card `surface-raised`.
-- **Placa inclinada:** pode emoldurar uma palavra ou um número-chave por layout.
-- **Tema Dark** para site, capas e eventos; **tema Light** para propostas, documentos e impressos.
-
-## 11. Elementos gráficos e componentes
-
-**Elementos:** selos na forma da placa (AI FIRST, FAÇA RÁPIDO, APRENDA RÁPIDO, EM PRODUÇÃO), ícones de linha de 2px, triângulo do A como marcador e padrão, grade de pontos, marquee de palavras-chave e numeração entre parênteses. Detalhes em [`brand/linguagem-visual.md`](brand/linguagem-visual.md).
-
-**Componentes prontos:**
-
-- `Button`: pílula; principal em magenta, secundário com contorno.
-- `Chip`: tag mono para tecnologias e áreas.
-- `Card`: oferta, produto ou case, com tags e link.
-- `Stat`: um número real grande com rótulo curto.
-- `Sticker`: o selo da placa inclinada.
-- `SectionLabel`: numeração `( 01 ) Diagnosticar`.
-
-## 12. Onde encontrar cada coisa
-
-| Preciso de… | Vá para |
-| --- | --- |
-| Manifesto, princípios completos, pitch, tom de voz, vocabulário, credenciais | [`brand/mensagem.md`](brand/mensagem.md) |
-| Selos, ícones, marquee, estrutura de página, fazer e evitar | [`brand/linguagem-visual.md`](brand/linguagem-visual.md) |
-| Arquivos de logo | [`assets/logos/`](assets/logos/) |
-| Cores, fontes, espaçamentos e cantos exatos | [`brand/tokens.json`](brand/tokens.json) |
-| Botão, chip, card, número, selo, numeração | Design system Garage4Lab no Claude |
-
-## 13. Pendências
-
-- Exportar os logos em **SVG** do Figma para substituir os PNGs.
-- Definir se o **"4"** do nome tem um significado a contar na narrativa.
-- Validar as **credenciais do fundador** antes de publicar.
-- Trocar os **números de exemplo** (como "2 semanas") pelos prazos e resultados reais.
+Traga um problema de negócio, não um pedido de ferramenta. A primeira conversa é um diagnóstico: saímos dela
+com a pergunta certa, o indicador que importa e o primeiro protótipo que vale a pena testar.
 
 ---
 
-<p align="center"><sub>© Garage4Lab · Identidade 2026</sub></p>
+<p align="center"><sub>Garage4Lab · Arquitetura que vira resultado.</sub></p>
